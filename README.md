@@ -1,4 +1,4 @@
 This is a project on the programming language.
-Teat complete.
+Test complete.
 Working on bash is fun.
 huhhh.
